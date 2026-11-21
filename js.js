@@ -83,5 +83,5 @@ function getHistory(){
   });
   
   function printILY(){
-    document.getElementById("output-value").innerText="ututu Sifan Cayang... muaccccccccchhhhhh 😍😘😘😘";
+    document.getElementById("output-value").innerText="Love You Dena. muacchh 😍😘😘😘";
   }
