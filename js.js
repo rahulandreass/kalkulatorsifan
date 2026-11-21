@@ -83,5 +83,5 @@ function getHistory(){
   });
   
   function printILY(){
-    document.getElementById("output-value").innerText="Love You Dena, Muaach 😍😘😘😘";
+    document.getElementById("output-value").innerText="2,3 burung kenari, telato:v";
   }
